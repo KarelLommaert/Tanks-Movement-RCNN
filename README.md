@@ -1,4 +1,6 @@
 # Tanks-Movement-RCNN
+Note: If you are only interested in playing the game and generating input data for the neural network, the executable that was distributed for the data collection of our experiment can be found on http://karellommaert.com/movementneuralnetwork.html and does not require any further setup.
+
 Setting up the project:
 1) Download Unity's ML-agents project from their github: https://github.com/Unity-Technologies/ml-agents
 
